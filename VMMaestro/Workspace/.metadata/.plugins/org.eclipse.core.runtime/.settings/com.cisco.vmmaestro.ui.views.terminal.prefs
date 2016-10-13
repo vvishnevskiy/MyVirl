@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+vmmaestro.terminal.old_noargs_imported=true
+vmmaestro.terminal.ssh_cmd=C\:\\Program Files\\VanDyke Software\\Clients\\SecureCRT.exe
+vmmaestro.terminal.ssh_cmd_args=/N %s /T /SSH %h %p
+vmmaestro.terminal.telnet_cmd=C\:\\Program Files\\VanDyke Software\\Clients\\SecureCRT.exe
+vmmaestro.terminal.telnet_cmd_args=/T /N %t  /Telnet %h %p
+vmmaestro.terminal.title_fmt=%s
+vmmaestro.terminal.use_external=true
