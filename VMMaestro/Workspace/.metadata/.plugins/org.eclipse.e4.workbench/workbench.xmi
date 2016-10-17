@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_dj9dcZDqEeaoNM_0W-ML2w" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_dj9dcpDqEeaoNM_0W-ML2w" bindingContexts="_dj-rkJDqEeaoNM_0W-ML2w">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor&quot; name=&quot;test1.virl&quot; tooltip=&quot;My Topologies/test1.virl&quot;>&#xD;&#xA;&lt;persistable path=&quot;/My Topologies/test1.virl&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor&quot; name=&quot;topology-test.virl&quot; tooltip=&quot;My Topologies/topology-test.virl&quot;>&#xD;&#xA;&lt;persistable path=&quot;/My Topologies/topology-test.virl&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor&quot; name=&quot;test1.virl&quot; tooltip=&quot;My Topologies/test1.virl&quot;>&#xD;&#xA;&lt;persistable path=&quot;/My Topologies/test1.virl&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>ModelMigrationProcessor.001</tags>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_dj9dcpDqEeaoNM_0W-ML2w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_eGnekpDqEeaoNM_0W-ML2w" width="900" height="700">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_dj9dcpDqEeaoNM_0W-ML2w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_eGnekpDqEeaoNM_0W-ML2w" x="-1076" y="129" width="900" height="700">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -14,7 +14,7 @@
     <tags>QUICK_ACCESS_HIDDEN</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_eGnekpDqEeaoNM_0W-ML2w" selectedElement="_eGoFoJDqEeaoNM_0W-ML2w" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_eGoFoJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_ezP7EJDqEeaoNM_0W-ML2w">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_eGoFoJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_eW9AoJDqEeaoNM_0W-ML2w">
         <children xsi:type="advanced:Perspective" xmi:id="_eW9AoJDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.DesignPerspective" selectedElement="_eW9AoZDqEeaoNM_0W-ML2w" label="Design" iconURI="platform:/plugin/com.cisco.vmmaestro/icons/topology.png">
           <persistedState key="persp.hiddenItems" value="persp.hideMenuSC:org.eclipse.ui.run,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
@@ -37,7 +37,7 @@
           <tags>persp.newWizSC:com.cisco.vmmaestro.wizards.ui.topology.project</tags>
           <tags>persp.viewSC:com.cisco.vmmaestro.ui.palette_view</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_eW9AoZDqEeaoNM_0W-ML2w" selectedElement="_eW9AqpDqEeaoNM_0W-ML2w" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_eW9AoZDqEeaoNM_0W-ML2w" selectedElement="_eW9AopDqEeaoNM_0W-ML2w" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_eW9AopDqEeaoNM_0W-ML2w" containerData="2000" selectedElement="_eW9ApJDqEeaoNM_0W-ML2w">
               <children xsi:type="basic:PartStack" xmi:id="_eW9Ao5DqEeaoNM_0W-ML2w" elementId="topLeft" toBeRendered="false" containerData="6000"/>
               <children xsi:type="basic:PartSashContainer" xmi:id="_eW9ApJDqEeaoNM_0W-ML2w" containerData="4000" selectedElement="_eW9Ap5DqEeaoNM_0W-ML2w">
@@ -48,6 +48,7 @@
                   </children>
                 </children>
                 <children xsi:type="basic:PartStack" xmi:id="_eW9Ap5DqEeaoNM_0W-ML2w" elementId="bottomLeft" containerData="5000" selectedElement="_eW9AqJDqEeaoNM_0W-ML2w">
+                  <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_eW9AqJDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.navigator.CommonNavigator" ref="_eWwzYJDqEeaoNM_0W-ML2w"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_eW9AqZDqEeaoNM_0W-ML2w" elementId="org.eclipse.team.ui.GenericHistoryView" ref="_eWzPoJDqEeaoNM_0W-ML2w"/>
                 </children>
@@ -99,23 +100,22 @@
           <tags>persp.viewSC:com.cisco.vmmaestro.views.LiveVisualization</tags>
           <tags>persp.perspSC:com.cisco.vmmaestro.DesignPerspective</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7EZDqEeaoNM_0W-ML2w" selectedElement="_ezP7EpDqEeaoNM_0W-ML2w">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7EpDqEeaoNM_0W-ML2w" containerData="7000" selectedElement="_ezP7FZDqEeaoNM_0W-ML2w" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7EpDqEeaoNM_0W-ML2w" containerData="7278" selectedElement="_ezP7FZDqEeaoNM_0W-ML2w" horizontal="true">
               <children xsi:type="basic:PartStack" xmi:id="_ezP7E5DqEeaoNM_0W-ML2w" elementId="topLeft" containerData="1500" selectedElement="_ezP7FJDqEeaoNM_0W-ML2w">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7FJDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.navigator.CommonNavigator" ref="_eWwzYJDqEeaoNM_0W-ML2w"/>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7FZDqEeaoNM_0W-ML2w" containerData="8500" selectedElement="_ezP7F5DqEeaoNM_0W-ML2w" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7FZDqEeaoNM_0W-ML2w" containerData="8500" selectedElement="_ezP7FpDqEeaoNM_0W-ML2w" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7FpDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_eWiJ4JDqEeaoNM_0W-ML2w"/>
                 <children xsi:type="basic:PartStack" xmi:id="_ezP7F5DqEeaoNM_0W-ML2w" elementId="topRight" containerData="2500" selectedElement="_ezP7GJDqEeaoNM_0W-ML2w">
-                  <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_ezP7GJDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.views.RosterView" ref="_eW0dwZDqEeaoNM_0W-ML2w"/>
                   <children xsi:type="advanced:Placeholder" xmi:id="_ezP7GZDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.ui.views.terminal.TerminalMultiplexerView" toBeRendered="false" ref="_ezPUAJDqEeaoNM_0W-ML2w"/>
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7GpDqEeaoNM_0W-ML2w" containerData="3000" selectedElement="_ezP7G5DqEeaoNM_0W-ML2w" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ezP7GpDqEeaoNM_0W-ML2w" containerData="2722" selectedElement="_ezP7G5DqEeaoNM_0W-ML2w" horizontal="true">
               <children xsi:type="basic:PartStack" xmi:id="_ezP7G5DqEeaoNM_0W-ML2w" elementId="bottom" containerData="7500" selectedElement="_ezP7IJDqEeaoNM_0W-ML2w">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7HJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.views.PropertySheet" toBeRendered="false" ref="_eW1E0JDqEeaoNM_0W-ML2w"/>
-                <children xsi:type="advanced:Placeholder" xmi:id="_ezP7HZDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.views.ProblemView" toBeRendered="false" ref="_eW1E0ZDqEeaoNM_0W-ML2w"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_ezP7HZDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.views.ProblemView" ref="_eW1E0ZDqEeaoNM_0W-ML2w"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7HpDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.views.PacketCapturesView" toBeRendered="false" ref="_eW1E0pDqEeaoNM_0W-ML2w"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7H5DqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.ui.views.terminal.terminalsView" toBeRendered="false" ref="_ezNe0JDqEeaoNM_0W-ML2w"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ezP7IJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.console.ConsoleView" ref="_ezNe0ZDqEeaoNM_0W-ML2w"/>
@@ -150,11 +150,11 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_eWiJ4JDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.editorss" selectedElement="_eWiJ4ZDqEeaoNM_0W-ML2w">
-      <children xsi:type="basic:PartStack" xmi:id="_eWiJ4ZDqEeaoNM_0W-ML2w" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_eZuyYJDrEeakStxvlLfLnA">
+      <children xsi:type="basic:PartStack" xmi:id="_eWiJ4ZDqEeaoNM_0W-ML2w" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_UcfzgJG3EeaLSMavjR_Fqg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_eZuyYJDrEeakStxvlLfLnA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="test1.virl" iconURI="platform:/plugin/com.cisco.vmmaestro/icons/topology.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor&quot; name=&quot;test1.virl&quot; partName=&quot;test1.virl&quot; title=&quot;test1.virl&quot; tooltip=&quot;My Topologies/test1.virl&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/My Topologies/test1.virl&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_UcfzgJG3EeaLSMavjR_Fqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="topology-test.virl" iconURI="platform:/plugin/com.cisco.vmmaestro/icons/topology.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor&quot; name=&quot;topology-test.virl&quot; partName=&quot;topology-test.virl&quot; title=&quot;topology-test.virl&quot; tooltip=&quot;My Topologies/topology-test.virl&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/My Topologies/topology-test.virl&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>com.cisco.vmmaestro.topoeditor.VIRLTopologyEditor</tags>
           <tags>removeOnHide</tags>
@@ -165,6 +165,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;1&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_egQGkJDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.navigator.CommonNavigator">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -195,8 +197,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_1zUH8JDrEeakStxvlLfLnA" elementId="com.cisco.vmmaestro.views.RosterView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -221,7 +221,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_e68egZDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.views.ProblemView"/>
+      <toolbar xmi:id="_e68egZDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.views.ProblemView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_eW1E0pDqEeaoNM_0W-ML2w" elementId="com.cisco.vmmaestro.views.PacketCapturesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Packet Captures" iconURI="platform:/plugin/com.cisco.vmmaestro/icons/packetcapture.png" tooltip="" closeable="true">
       <tags>View</tags>
@@ -302,31 +302,31 @@
     <trimBars xmi:id="_dj9ddJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.trim.status" contributorURI="platform:/plugin/org.eclipse.ui.workbench" side="Bottom">
       <children xsi:type="menu:ToolBar" xmi:id="_exzwoJDqEeaoNM_0W-ML2w" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_QqmI4JDrEeakStxvlLfLnA" elementId="Search">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_iloesJSnEea0HtA5ncWYeg" elementId="Search">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_QqmI4ZDrEeakStxvlLfLnA" elementId="org.eclipse.search.OpenSearchDialogPage">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilpFwJSnEea0HtA5ncWYeg" elementId="org.eclipse.search.OpenSearchDialogPage">
           <tags>Opaque</tags>
         </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_extC8JDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.edit.text.actionSet.annotationNavigation">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_Qqn-EJDrEeakStxvlLfLnA" elementId="history.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilpFwZSnEea0HtA5ncWYeg" elementId="history.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_Qqn-EZDrEeakStxvlLfLnA" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilps0JSnEea0HtA5ncWYeg" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_Qqn-EpDrEeakStxvlLfLnA" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilps0ZSnEea0HtA5ncWYeg" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
           <tags>Opaque</tags>
         </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ex53QJDqEeaoNM_0W-ML2w" elementId="org.eclipse.ui.edit.text.actionSet.navigation">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_Qqn-E5DrEeakStxvlLfLnA" elementId="history.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilqT4JSnEea0HtA5ncWYeg" elementId="history.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_Qqn-FJDrEeakStxvlLfLnA" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_ilqT4ZSnEea0HtA5ncWYeg" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
           <tags>Opaque</tags>
         </children>
       </children>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="com.cisco.vmmaestro.ui.commands.handlers.LaunchSimulationDialog">
+		<item value="-1" key="timeLimit"/>
+		<item value="" key="simulationName"/>
+	</section>
 	<section name="TopologyConfigsImportWizard">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
 	</section>
 </section>
